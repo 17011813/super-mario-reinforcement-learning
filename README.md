@@ -12,10 +12,6 @@ replay 할때 agent.py 코드에서 한번 돌 때 마다 env.reset()을 해주�
 
 ./models/model.ckpt.data 와 model.ckpt.index 와 model.ckpt.meta는 25000번 학습후 저장한 체크포인트 입니다.
 
-데모 동영상 입니다.
-.youtube{
-    width: 100%;
-    height: 100%;
-}
-<iframe class="youtube" src="https://www.youtube.com/watch?v=l0jkij1IVlo"  
- frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+데모 영상 입니다.
+
+![Demo](https://github.com/17011813/super-mario-reinforcement-learning/blob/master/gif.gif)
